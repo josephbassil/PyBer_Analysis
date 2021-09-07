@@ -9,6 +9,5 @@ Once that step is done, we are creating a compelling visualization for the CEO, 
 -The average number of drivers in rural cities is nine to four times less per city than in urban and suburban cities
 
 #Summary: 
-##3 business recommendations addressing any disparities among the city types.
--Because of the low number of rides in rural cities, we recommand increasing fare bonuses, to encourage drivers to work in rural cities
--This way, we can witness an increase in driver's number and have a more balanced drivers spread in all the cities
+Because of the low number of rides in rural cities, we recommand increasing fare bonuses, to encourage drivers to work in rural cities.
+This way, we can witness an increase in driver's number and have a more balanced drivers spread in all the cities
